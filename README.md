@@ -30,7 +30,7 @@ A personalized Linux bash configuration setup featuring a beautiful Starship pro
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/p6sLinuxBash.git
+git clone https://github.com/P6s-fx/p6s-ArchBash.git
 cd p6sLinuxBash
 ```
 
